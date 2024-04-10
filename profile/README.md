@@ -2,4 +2,5 @@
 
 BrXnd<sup>[1](#footnote1)</sup> is an organization at the intersection of marketing and AI. Our mission is to propel marketing forward with events, education, consulting, and experiments that combine the power of brands with the amazing potential of AI.
 
-<small><a id="footnote1">1</a>: It's pronounced "brand"</small>
+---
+<a id="footnote1">1</a>: It's pronounced "brand"
